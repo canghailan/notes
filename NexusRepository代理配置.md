@@ -17,3 +17,9 @@ https://registry.npmjs.org/
 ```
 https://www.nuget.org/api/v2/
 ```
+
+
+## pypi
+```
+https://pypi.python.org/
+```
