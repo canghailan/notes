@@ -33,6 +33,7 @@
                             <el-tree
                                     :data="toc"
                                     accordion
+                                    highlight-current="true"
                                     @node-click="onTocClick">
                             </el-tree>
                         </el-collapse-item>
@@ -41,6 +42,7 @@
                                     :data="list"
                                     :props="{'label':'key', 'id': 'key'}"
                                     accordion
+                                    highlight-current="true"
                                     @node-click="onSearchClick">
                             </el-tree>
                         </el-collapse-item>
