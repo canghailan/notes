@@ -31,7 +31,7 @@ var app = new Vue({
         }
     },
     mounted: function () {
-        this.key = window.location.hash.substring(1);
+        this.setKey(window.location.hash.substring(1));
         this.getToc();
     },
     watch: {
