@@ -86,6 +86,7 @@ var app = new Vue({
         setKey: function(key) {
             if (!/\/$/.test(key)) {
                 this.key = key;
+                window.location.hash = key;
             }
         },
         search: function () {
