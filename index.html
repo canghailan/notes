@@ -6,12 +6,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/element-ui@2.8.2/lib/theme-chalk/index.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1.16.0/themes/prism.css">
     <style>
-    html, body {
-        margin: 1% 0.5% 0.5% 0.5%;
-        width: 99%;
-        height: 98.5%;
-        overflow: hidden;
-    }
+        html, body {
+            margin: 1% 0.5% 0.5% 0.5%;
+            width: 99%;
+            height: 98.5%;
+            overflow: hidden;
+        }
     </style>
 </head>
 <body>
@@ -37,7 +37,7 @@
                                     @node-click="onTocClick">
                             </el-tree>
                         </el-collapse-item>
-                        <el-collapse-item title="搜索" name="search">
+                        <el-collapse-item :title="search_title" name="search">
                             <el-tree
                                     :data="list"
                                     :props="{'label':'key', 'id': 'key'}"

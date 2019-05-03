@@ -13,6 +13,7 @@ var app = new Vue({
         toc: [],
         keyword: '',
         cursor: '',
+        page: 0,
         list: [],
         key: '',
         markdown: '',
@@ -21,17 +22,23 @@ var app = new Vue({
     computed: {
         marked: function () {
             return this.markdown ? marked(this.markdown) : '';
+        },
+        search_title: function () {
+            if (this.page === 0) {
+                return '搜索';
+            }
+            return '搜索 - 第' + this.page + '页';
         }
     },
     mounted: function () {
-        this.getToc();
         this.key = window.location.hash.substring(1);
+        this.getToc();
     },
     watch: {
-        key: function (value) {
-            if (value) {
+        key: function (key) {
+            if (key) {
                 var self = this;
-                axios.get(value).then(function (r) {
+                axios.get(key).then(function (r) {
                     self.markdown = r.data;
                 });
             }
@@ -90,6 +97,11 @@ var app = new Vue({
                     n: 20
                 }
             }).then(function (r) {
+                if (self.cursor) {
+                    self.page++;
+                } else {
+                    self.page = 1;
+                }
                 self.list = r.data.list;
                 self.cursor = r.data.cursor;
                 self.mode = 'search';
