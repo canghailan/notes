@@ -9,3 +9,5 @@
 [赵成：蘑菇街 DevOps 实践和转型之路](https://mp.weixin.qq.com/s/5cXgdTJnY1fb7u9Fd-g2SQ)
 
 [LZ4](https://www.amazingkoala.com.cn/Lucene/yasuocunchu/2019/0226/37.html)
+
+[Nginx配置文件生成](https://nginxconfig.io)
