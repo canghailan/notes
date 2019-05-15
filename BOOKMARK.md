@@ -11,3 +11,5 @@
 [LZ4](https://www.amazingkoala.com.cn/Lucene/yasuocunchu/2019/0226/37.html)
 
 [Nginx配置文件生成](https://nginxconfig.io)
+
+[如何推送个人项目至Maven中央仓库](https://my.oschina.net/centychen/blog/3049307)
