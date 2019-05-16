@@ -13,3 +13,9 @@
 [Nginx配置文件生成](https://nginxconfig.io)
 
 [如何推送个人项目至Maven中央仓库](https://my.oschina.net/centychen/blog/3049307)
+
+[OPPO数据中台之基石：基于Flink SQL构建实数据仓库](https://yq.aliyun.com/articles/702436)
+
+[亿级消息系统的核心存储：Tablestore发布Timeline 2.0模型](https://yq.aliyun.com/articles/702419)
+
+[深入搜索引擎原理](https://yq.aliyun.com/articles/702381)k
