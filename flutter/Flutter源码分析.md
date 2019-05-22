@@ -1,0 +1,6 @@
+runApp
+attachRootWidget
+RenderObjectToWidgetAdapter.attachToRenderTree
+RenderObjectToWidgetElement.mount
+RenderObjectToWidgetElement._rebuild
+RenderObjectElement.updateChildren
