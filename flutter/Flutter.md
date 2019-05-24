@@ -17,3 +17,5 @@
 [The-Engine-architecture](https://github.com/flutter/flutter/wiki/The-Engine-architecture)
 
 [inside-flutter](https://flutter.dev/docs/resources/inside-flutter)
+
+[Flutter动画的实现原理浅析](https://mp.weixin.qq.com/s/CqjVgCjQVowReqG1PaDXUg)
