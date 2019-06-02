@@ -37,3 +37,9 @@
 [从技术雷达看DevOps的十年 – 基础设施即代码和云计算](https://insights.thoughtworks.cn/infrastructure-as-code-and-cloud-computing/)
 
 [两阶段生成索引文件之第一阶段](https://www.amazingkoala.com.cn/Lucene/Index/2019/0521/61.html)
+
+[势高，则围广：TiDB 的架构演进哲学](https://mp.weixin.qq.com/s/ojaN603OPWcXEbwHVn54yA)
+
+[斗鱼 API 网关演进之路](https://zhuanlan.zhihu.com/p/67481992)
+
+[自动化日志收集及分析在支付宝 App 内的演进](https://yq.aliyun.com/articles/704026)
