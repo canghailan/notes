@@ -43,3 +43,13 @@
 [斗鱼 API 网关演进之路](https://zhuanlan.zhihu.com/p/67481992)
 
 [自动化日志收集及分析在支付宝 App 内的演进](https://yq.aliyun.com/articles/704026)
+
+[构建可解释的推荐系统](https://mp.weixin.qq.com/s/dw01867igd_FyNuvzwe9dQ)
+
+[移动平均(EWMA)在 HLS.JS 的实践](https://www.jackpu.com/yi-dong-jun-xian-zai-kuan-dai-tan-ce-de-shi-jian/)
+
+[使用 JavaScript 探测网络状态](https://www.jackpu.com/shi-yong-javascript-tan-ce-wang-luo-zhuang-tai/)
+
+[Service Mesh 发展趋势：云原生中流砥柱](https://mp.weixin.qq.com/s/N_z14Ej_TUCEvo3Onzausw)
+
+[电商账户系统设计](https://mp.weixin.qq.com/s/4M3iLsw35GZi94aBZ9VL2w)

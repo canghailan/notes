@@ -40,3 +40,7 @@
 [PostgreSQL 图计算](https://github.com/digoal/blog/blob/master/201710/20171001_07.md)
 
 [音视图(泛内容)网站透视分析 DB设计 - 阿里云(RDS、HybridDB) for PostgreSQL最佳实践](https://github.com/digoal/blog/blob/master/201708/20170827_01.md)
+
+[进击的 Vulkan 移动开发之 SwapChain](https://glumes.com/post/vulkan/vulkan-tutorial-swap-chain/)
+
+[每个前端工程师都应该了解的图片知识(长文建议收藏)](https://mp.weixin.qq.com/s/O1n7_t4izdmpvn2mFrB-kg)
