@@ -53,3 +53,9 @@
 [Service Mesh 发展趋势：云原生中流砥柱](https://mp.weixin.qq.com/s/N_z14Ej_TUCEvo3Onzausw)
 
 [电商账户系统设计](https://mp.weixin.qq.com/s/4M3iLsw35GZi94aBZ9VL2w)
+
+[跟我一起学习玩转二维码](https://mp.weixin.qq.com/s/UeHZmjU1Hy4dWPgXAq0blg)
+
+[自撸一个Android IM库，即时通讯很难吗？](https://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650246181&idx=1&sn=2fab03f668a17bc115e037d0752c6805&chksm=88637d4abf14f45ced9bf0adf718214b835ad505745ddc73d449034a0fc8b2d4dc2903ea8c7a&mpshare=1&scene=2&srcid=&from=timeline&ascene=2&devicetype=android-28&version=2700043b&nettype=ctnet&abtest_cookie=BAABAAoACwASABMABgAjlx4AVpkeAMWZHgDcmR4A85keAAOaHgAAAA==&lang=en&pass_ticket=1UtqA24DLEKyU/HuPA9K9GCrUl1ildxr6aBc6hljeNTDc3u0FFy+TUxqBjw0JU9b&wx_header=1)
+
+[进击的 Vulkan 移动开发（一）之今生前世](https://glumes.com/post/vulkan/vulkan-tutorial-concept/)
