@@ -59,3 +59,11 @@
 [自撸一个Android IM库，即时通讯很难吗？](https://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650246181&idx=1&sn=2fab03f668a17bc115e037d0752c6805&chksm=88637d4abf14f45ced9bf0adf718214b835ad505745ddc73d449034a0fc8b2d4dc2903ea8c7a&mpshare=1&scene=2&srcid=&from=timeline&ascene=2&devicetype=android-28&version=2700043b&nettype=ctnet&abtest_cookie=BAABAAoACwASABMABgAjlx4AVpkeAMWZHgDcmR4A85keAAOaHgAAAA==&lang=en&pass_ticket=1UtqA24DLEKyU/HuPA9K9GCrUl1ildxr6aBc6hljeNTDc3u0FFy+TUxqBjw0JU9b&wx_header=1)
 
 [进击的 Vulkan 移动开发（一）之今生前世](https://glumes.com/post/vulkan/vulkan-tutorial-concept/)
+
+[深入理解现代浏览器](https://mp.weixin.qq.com/s/LkKNjrkx1V32lCjv92Cuuw)
+
+[DASH 协议调研总结](https://mp.weixin.qq.com/s/QITorEo51igjahB7LHjSWQ)
+
+[DASH协议及各种码率自适应协议的对比](https://juejin.im/post/5a697868f265da3e3f4ce17d)
+
+[第四部分：如何借助当前的自适应比特率技术降低广播延迟 – 参考架构和测试结果](https://aws.amazon.com/cn/blogs/china/compete-broadcast-latency-bitrate-tech4/)
