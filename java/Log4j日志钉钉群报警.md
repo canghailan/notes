@@ -11,10 +11,14 @@
                 <pattern>{"msgtype":"markdown","markdown":{"title":"%p","text":"%enc{%m}{JSON}"}}</pattern>
             </PatternLayout>
         </Http>
+        <Async name="DingTalkAsync">
+            <ThresholdFilter level="FATAL" />
+            <AppenderRef ref="DingTalk"/>
+        </Async>
     </Appenders>
     <Loggers>
         <Root level="error">
-            <AppenderRef ref="DingTalk"/>
+            <AppenderRef ref="DingTalkAsync"/>
         </Root>
     </Loggers>
 </Configuration>
