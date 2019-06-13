@@ -67,3 +67,13 @@
 [DASH协议及各种码率自适应协议的对比](https://juejin.im/post/5a697868f265da3e3f4ce17d)
 
 [第四部分：如何借助当前的自适应比特率技术降低广播延迟 – 参考架构和测试结果](https://aws.amazon.com/cn/blogs/china/compete-broadcast-latency-bitrate-tech4/)
+
+[Vue Function-based API RFC](https://zhuanlan.zhihu.com/p/68477600)
+
+[Kubernetes 网络模型解析](https://mp.weixin.qq.com/s/TcAD_uZVw04ENapPzVW7tQ)
+
+[Kubernetes Failure Stories](https://k8s.af/)
+
+[推荐系统产品与算法概述](https://mp.weixin.qq.com/s/BI0Nc0_fQCHvsDuCJC6JFg)
+
+[推荐系统的工程实现](https://mp.weixin.qq.com/s?__biz=MzI1NjM1ODEyMg==&mid=2247483700&idx=1&sn=323882e8708d89a534ccaae50c02a2f4&chksm=ea26a2b1dd512ba7213d83672c41bce42793aa9f0c43a83f1eecd369a1bddc1bb97810d8cac6&scene=21#wechat_redirect)
