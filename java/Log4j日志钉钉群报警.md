@@ -4,7 +4,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="WARN">
     <Appenders>
-        <Http name="DingTalk" url="https://oapi.dingtalk.com/robot/send?access_token=ed2dd089eaea3309d6c5470882e2a0c5a662976fc2f7a56a4e4006b85bfbc8ad">
+        <Http name="DingTalk" url="https://oapi.dingtalk.com/robot/send?access_token=">
             <ThresholdFilter level="FATAL" />
             <Property name="Content-Type" value="application/json;charset=utf-8" />
             <PatternLayout>
