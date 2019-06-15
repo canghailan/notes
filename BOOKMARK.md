@@ -77,3 +77,9 @@
 [推荐系统产品与算法概述](https://mp.weixin.qq.com/s/BI0Nc0_fQCHvsDuCJC6JFg)
 
 [推荐系统的工程实现](https://mp.weixin.qq.com/s?__biz=MzI1NjM1ODEyMg==&mid=2247483700&idx=1&sn=323882e8708d89a534ccaae50c02a2f4&chksm=ea26a2b1dd512ba7213d83672c41bce42793aa9f0c43a83f1eecd369a1bddc1bb97810d8cac6&scene=21#wechat_redirect)
+
+[优秀工程师必备的一项技能，你解锁了吗？](https://mp.weixin.qq.com/s/q05Df_TKWUSlhK6V6KTrfw)
+
+[推荐系统-学习总结](https://cloud.tencent.com/developer/article/1342091)
+
+[今日头条推荐算法原理首公开，头条首席算法架构师带来详细解读](https://www.leiphone.com/news/201801/XlIxFZ5W3j8MvaEL.html)
