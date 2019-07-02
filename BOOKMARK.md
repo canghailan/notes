@@ -83,3 +83,33 @@
 [推荐系统-学习总结](https://cloud.tencent.com/developer/article/1342091)
 
 [今日头条推荐算法原理首公开，头条首席算法架构师带来详细解读](https://www.leiphone.com/news/201801/XlIxFZ5W3j8MvaEL.html)
+
+[PostgreSQL变更事件捕获 (CDC)](https://mp.weixin.qq.com/s/TqyF0L6a74lTQEyEX0mMlw)
+
+[做支付需要了解哪些行业知识](https://mp.weixin.qq.com/s?__biz=MzI4MTY5MDk2MQ==&mid=100000070&idx=1&sn=c29702253a2ac1a7d73068be57c587ec&chksm=6ba417785cd39e6e18459cc0c472693f2b6adaf12cb4bd6f6951708162ee58eadf0359f09f46#rd)
+
+[PostgreSQL 10.1 手册](http://www.postgres.cn/docs/10/)
+
+[Linux 系统资源管理：什么是 CGroups ？](https://sexywp.com/whats-cgroups.htm)
+
+[漫谈5G时代的云游戏](https://mp.weixin.qq.com/s/rsQdtyXR2j-Z10OeruFGkA)
+
+[关于Spring Boot你不得不知道的事--Spring Boot的基本操作](https://mp.weixin.qq.com/s/MnBEglBEQQlyRjztUv-K5A)
+
+[本地开发和调试 service](https://k8smeetup.github.io/docs/tasks/debug-application-cluster/local-debugging/)
+
+[如何设计实时数据平台（设计篇）](https://my.oschina.net/u/4007037/blog/3064704)
+
+[大型互联网企业平台开放技术实践](https://mp.weixin.qq.com/s/EToZ5wqfQCevmgRwdEWdcg)
+
+[MySQL 5.7 的 JSON 类型](http://nullwy.me/2019/06/mysql-5.7-json/)
+
+[Pandas 数据处理(三) - Cheat Sheet 中文版](https://geektutu.com/post/pandas-cheat-sheet-zh-cn.html)
+
+[Feed流系统设计-总纲](https://yq.aliyun.com/articles/706808)
+
+[MySQL实时监听——EPX](https://mp.weixin.qq.com/s?__biz=MzIyMTg0OTExOQ==&mid=2247485228&idx=1&sn=9f56ce6b39453945df5e3c13205e009c&chksm=e837345cdf40bd4aeab01e2a05ba4cb5651e8c7e720baa71b4651a91e595598935b250b8e969&xtrack=1&scene=0&subscene=93&clicktime=1561726821&ascene=7&devicetype=android-28&version=2700043c&nettype=3gnet&abtest_cookie=BQABAAoACwASABMAFQAGACOXHgBWmR4A0JkeANyZHgD2mR4ADZoeAAAA&lang=zh_CN&pass_ticket=QLhHbsnNGmBoqL6TNHaiACNBdPKTxjCTcIO/pLVNYvZkBPDgFCYI1FkKUY0H3wYH&wx_header=1)
+
+[MetalLB：穷人的LoadBalancer](https://ieevee.com/tech/2019/06/30/metallb.html)
+
+[后端开发实践系列——开发者的第0个迭代](https://insights.thoughtworks.cn/backend-development-iteration0/)
