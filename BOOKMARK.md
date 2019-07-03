@@ -113,3 +113,9 @@
 [MetalLB：穷人的LoadBalancer](https://ieevee.com/tech/2019/06/30/metallb.html)
 
 [后端开发实践系列——开发者的第0个迭代](https://insights.thoughtworks.cn/backend-development-iteration0/)
+
+[基于小程序技术栈的微信客户端跨平台实践](https://mp.weixin.qq.com/s/V-H3pF9ytfXRhZG0PGIKsw)
+
+[使用Elasticsearch Operator快速部署Elasticsearch集群](https://www.qikqiak.com/post/elastic-cloud-on-k8s/)
+
+[大数据平台常见开源工具集锦(强烈推荐收藏)](https://mp.weixin.qq.com/s?__biz=MzA5MTc0NTMwNQ==&mid=2650717098&idx=1&sn=477da3a0c45418d1dab1c1d56c244647&chksm=887da6dcbf0a2fcacfab801521bf867ff35ead80b63cd43f7cc2f5a0978f3cff0a700723cca0&token=565550616&lang=zh_CN#rd)
