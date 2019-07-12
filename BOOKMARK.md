@@ -119,3 +119,17 @@
 [使用Elasticsearch Operator快速部署Elasticsearch集群](https://www.qikqiak.com/post/elastic-cloud-on-k8s/)
 
 [大数据平台常见开源工具集锦(强烈推荐收藏)](https://mp.weixin.qq.com/s?__biz=MzA5MTc0NTMwNQ==&mid=2650717098&idx=1&sn=477da3a0c45418d1dab1c1d56c244647&chksm=887da6dcbf0a2fcacfab801521bf867ff35ead80b63cd43f7cc2f5a0978f3cff0a700723cca0&token=565550616&lang=zh_CN#rd)
+
+[声纹识别发展综述](https://zhuanlan.zhihu.com/p/67563275)
+
+[项目改进的四个抓手](https://mp.weixin.qq.com/s?__biz=MzUzNjAxODg4MQ==&mid=2247484745&idx=1&sn=a71ac9b7ac86a09f0b5569e4f777ded0&chksm=fafdefe7cd8a66f1a55f83e8453f88a38251ca0d56a4dc5f28f4ab441d1358bd827fce446df8&token=1211196776&lang=zh_CN#rd)
+
+[译 Dynamo: Amazon's Highly Available Key-value Store（SOSP 2007）](https://arthurchiao.github.io/blog/amazon-dynamo-zh/)
+
+[用Flutter构建漂亮的UI界面 - 基础组件篇](https://github.com/SmallStoneSK/Blog/issues/12)
+
+[程序员与新技术之间的「爱」与「恨」](https://mp.weixin.qq.com/s/VNC4qeLU__Y1bruVGYSmaQ)
+
+[洞若观火：使用OpenTracing增强Istio的调用链跟踪-篇一](https://mp.weixin.qq.com/s/fOO7ES1jEsypwNn5QhkFoA)
+
+[让微信文档维护也是件幸福的事](https://www.villainhr.com/page/2019/07/09/%E8%AE%A9%E5%BE%AE%E4%BF%A1%E6%96%87%E6%A1%A3%E7%BB%B4%E6%8A%A4%E4%B9%9F%E6%98%AF%E4%BB%B6%E5%B9%B8%E7%A6%8F%E7%9A%84%E4%BA%8B)
