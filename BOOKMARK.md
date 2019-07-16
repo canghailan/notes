@@ -38,6 +38,8 @@
 
 [两阶段生成索引文件之第一阶段](https://www.amazingkoala.com.cn/Lucene/Index/2019/0521/61.html)
 
+[一文读懂 YUV 的采样与格式](https://glumes.com/post/ffmpeg/understand-yuv-format/)
+
 [势高，则围广：TiDB 的架构演进哲学](https://mp.weixin.qq.com/s/ojaN603OPWcXEbwHVn54yA)
 
 [斗鱼 API 网关演进之路](https://zhuanlan.zhihu.com/p/67481992)
