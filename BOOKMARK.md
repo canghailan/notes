@@ -37,3 +37,5 @@
 [从技术雷达看DevOps的十年 – 基础设施即代码和云计算](https://insights.thoughtworks.cn/infrastructure-as-code-and-cloud-computing/)
 
 [两阶段生成索引文件之第一阶段](https://www.amazingkoala.com.cn/Lucene/Index/2019/0521/61.html)
+
+[一文读懂 YUV 的采样与格式](https://glumes.com/post/ffmpeg/understand-yuv-format/)
