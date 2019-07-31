@@ -137,3 +137,35 @@
 [让微信文档维护也是件幸福的事](https://www.villainhr.com/page/2019/07/09/%E8%AE%A9%E5%BE%AE%E4%BF%A1%E6%96%87%E6%A1%A3%E7%BB%B4%E6%8A%A4%E4%B9%9F%E6%98%AF%E4%BB%B6%E5%B9%B8%E7%A6%8F%E7%9A%84%E4%BA%8B)
 
 [微前端如何落地？](https://insights.thoughtworks.cn/how-does-micro-front-end-land/)
+
+[fc-whiteboard，支持镜像、录播、回放的 Web 电子白板](https://zhuanlan.zhihu.com/p/73652727)
+
+[Apache Doris 在美团点评的实践](https://blog.bcmeng.com/post/meituan-doris.html)
+
+[人物识别精准度提升至91.14%​，TOP1团队技术方案](https://mp.weixin.qq.com/s/W763ALiHEXZleMgp4pvTNg)
+
+[程序员要搞明白CDN，这篇应该够了](https://mp.weixin.qq.com/s/hbnDy8NF8U_lbgCLTGVTmw)
+
+[Bigtable: A Distributed Storage System for Structured Data (OSDI 2006)](https://arthurchiao.github.io/blog/google-bigtable-zh/)
+
+[分布式限流 redis-cell](https://www.jianshu.com/p/1b026b874c40)
+
+[Google Spanner架构上的分布式PostgreSQL - 存储层](http://www.apexyun.com/google-spannerjia-gou-shang-de-fen-bu-shi-postgresql-cun-chu-ceng/)
+
+[软件测试新趋势](https://insights.thoughtworks.cn/new-trends-in-software-testing/)
+
+[设计一个通用的排序方案，关于模糊中间数的计算思路](https://wanyaxing.com/blog/20190702112829.html)
+
+[Kubernetes如何加速UCloud内部代码部署的CI/CD流程](https://zhuanlan.zhihu.com/p/74293710)
+
+[点沙成金：半导体芯片(删减版)](https://mp.weixin.qq.com/s/yDhrjGvJa5Xc6xrg-gOXlg)
+
+[两万字深度介绍分布式系统原理，一文入魂](https://mp.weixin.qq.com/s/PnnR-kYl1CLxn1Z6NZ2G7w)
+
+[现代IM系统中的消息系统架构 - 实现篇](https://yq.aliyun.com/articles/710363)
+
+[知乎已读服务的前生今世与未来](https://mp.weixin.qq.com/s/1VOSLYp6kM0bNcvDAUlg3w)
+
+[优化CDN，从全链路入手](https://mp.weixin.qq.com/s?__biz=MzUyMzA3MTY1NA==&mid=2247484976&idx=1&sn=c665a54787dbfc1994517d5ee43670ab&chksm=f9c37ff9ceb4f6efc4e45cbf722b32066ec67b5c44984185e2030b9c5da33755dd743b5e552f#rd)
+
+[玩不转标签体系，离精细化运营有多远？（附标签体系搭建指南）](https://mp.weixin.qq.com/s/gZIBo5CU4EID_UbDW8rtpw)
