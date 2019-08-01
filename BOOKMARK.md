@@ -169,3 +169,7 @@
 [优化CDN，从全链路入手](https://mp.weixin.qq.com/s?__biz=MzUyMzA3MTY1NA==&mid=2247484976&idx=1&sn=c665a54787dbfc1994517d5ee43670ab&chksm=f9c37ff9ceb4f6efc4e45cbf722b32066ec67b5c44984185e2030b9c5da33755dd743b5e552f#rd)
 
 [玩不转标签体系，离精细化运营有多远？（附标签体系搭建指南）](https://mp.weixin.qq.com/s/gZIBo5CU4EID_UbDW8rtpw)
+
+[提高 kubectl 使用生产力](https://www.qikqiak.com/post/boosting-kubeclt-productivity/)
+
+[前端离线化探索](http://www.alloyteam.com/2019/07/web-applications-offline/)
