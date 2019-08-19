@@ -173,3 +173,15 @@
 [提高 kubectl 使用生产力](https://www.qikqiak.com/post/boosting-kubeclt-productivity/)
 
 [前端离线化探索](http://www.alloyteam.com/2019/07/web-applications-offline/)
+
+[tensorflow](https://tensorflow.google.cn/learn?hl=zh-cn)
+
+[通过OpenGL理解前端渲染原理（1）](https://mp.weixin.qq.com/s/J_5OK1pT2rKBNd6GgWNEXQ)
+
+[WebRTC：一个视频聊天的简单例子](https://zhuanlan.zhihu.com/p/76615314)
+
+[Visual Studio Code有哪些工程方面的亮点](https://zhuanlan.zhihu.com/p/35303567)
+
+[Text Buffer Reimplementation](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
+
+[吴恩达的 CS229，有人把它浓缩成 6 张中文速查表！](https://mp.weixin.qq.com/s/wos9wo7gKanhHVjEtEABvA)

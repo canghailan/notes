@@ -1,0 +1,1 @@
+netsh wlan set hostednetwork mode=allow ssid=whow key=12345678

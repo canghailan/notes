@@ -1,6 +1,6 @@
 查找Inode占用最多文件
 ```shell
-cd /var/lib/docker/aufs
+cd /var/lib/docker/aufs/diff
 find . -xdev -type f | cut -d "/" -f 2 | sort | uniq -c | sort -n
 ```
 
