@@ -185,3 +185,11 @@
 [Text Buffer Reimplementation](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
 
 [吴恩达的 CS229，有人把它浓缩成 6 张中文速查表！](https://mp.weixin.qq.com/s/wos9wo7gKanhHVjEtEABvA)
+
+[端到端一致性,流系统Spark/Flink/Kafka/DataFlow对比总结(压箱宝具呕血之作)](https://zhuanlan.zhihu.com/p/77677075)
+
+[深入理解浏览器原理](https://mp.weixin.qq.com/s/QqpPGWf3IVEDN1t80CZ06Q)
+
+[美团点评Kubernetes集群管理实践](https://mp.weixin.qq.com/s/lYDYzEUlvXQhCO1xCJ7HAg)
+
+[Web 多媒体开发指南](https://www.jackpu.com/web-media-developer-guide/)
