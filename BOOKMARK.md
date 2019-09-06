@@ -193,3 +193,5 @@
 [美团点评Kubernetes集群管理实践](https://mp.weixin.qq.com/s/lYDYzEUlvXQhCO1xCJ7HAg)
 
 [Web 多媒体开发指南](https://www.jackpu.com/web-media-developer-guide/)
+
+[WEB验证的过去现在与未来](https://mp.weixin.qq.com/s/-PlSYKTgu9h-bYMknTKNkw)
