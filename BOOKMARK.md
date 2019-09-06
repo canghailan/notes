@@ -195,3 +195,19 @@
 [Web 多媒体开发指南](https://www.jackpu.com/web-media-developer-guide/)
 
 [WEB验证的过去现在与未来](https://mp.weixin.qq.com/s/-PlSYKTgu9h-bYMknTKNkw)
+
+[现代流式计算的基石：Google DataFlow](https://mp.weixin.qq.com/s/1Y_6p1u4AK-IQVqDLYkP4Q)
+
+[CSS字体，从Level 1到Level 3](https://mp.weixin.qq.com/s/hU9rytnF4E7anm01mKOZ2Q)
+
+[这句简单的sql，如何加索引？颠覆了我多年的认知](https://mp.weixin.qq.com/s/uuavfy3O6UiKLfCesddCUA)
+
+[Golang实现单机百万长连接服务 - 美图的三年优化经验](https://mp.weixin.qq.com/s/xavjsa4NzRiVRxyMhifCDg)
+
+[Kafka是如何实现几十万的高并发写入](https://binchencoder.github.io/2019/08/28/kafka是如何实现几十万的高并发写入/)
+
+[列式存储系列（二）: Vertica](https://mp.weixin.qq.com/s/vjD8ViQGhnFqSr4hcSyHZA)
+
+[下一代JVM：GraalVM的十大特性](http://it.deepinmind.com/jvm/2019/08/27/graalvm-ten-things.html)
+
+[亿级规模的 Feed 流系统，如何轻松设计？](https://mp.weixin.qq.com/s/S6mflzwsqTGSW6eWG1v54w)
