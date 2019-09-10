@@ -211,3 +211,7 @@
 [下一代JVM：GraalVM的十大特性](http://it.deepinmind.com/jvm/2019/08/27/graalvm-ten-things.html)
 
 [亿级规模的 Feed 流系统，如何轻松设计？](https://mp.weixin.qq.com/s/S6mflzwsqTGSW6eWG1v54w)
+
+[分布式消息系统，设计要点。画龙画虎难画骨](https://mp.weixin.qq.com/s/5sjiKmXlDv6gM3IcekEJew)
+
+[Kubernetes存储介绍系列 ——CSI plugin设计](http://newto.me/k8s-csi-design/)
