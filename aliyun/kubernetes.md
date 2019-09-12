@@ -32,6 +32,27 @@
 
 [基于Istio实现Kubernetes与ECS上的应用服务混合编排](https://help.aliyun.com/document_detail/90707.html)
 
+[Reconfigure a Node's Kubelet in a Live Cluster](https://kubernetes.io/docs/tasks/administer-cluster/reconfigure-kubelet/#generate-the-configuration-file)
+
+[K8S有状态服务-StatefulSet使用最佳实践](https://yq.aliyun.com/articles/629007)
+
+
+查看kubelet配置
+```shell
+kubectl proxy --port=8001
+NODE_NAME="the-name-of-the-node-you-are-reconfiguring"; curl -sSL "http://localhost:8001/api/v1/nodes/${NODE_NAME}/proxy/configz"
+```
+修改kubelet配置
+```shell
+kubectl edit node ${NODE_NAME}
+spec:
+  configSource:
+    configMap:
+      name: kubelet-config-1.14
+      namespace: kube-system
+      kubeletConfigKey: kubelet
+```
+
 
 
 * 服务器

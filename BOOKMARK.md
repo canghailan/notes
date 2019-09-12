@@ -215,3 +215,7 @@
 [分布式消息系统，设计要点。画龙画虎难画骨](https://mp.weixin.qq.com/s/5sjiKmXlDv6gM3IcekEJew)
 
 [Kubernetes存储介绍系列 ——CSI plugin设计](http://newto.me/k8s-csi-design/)
+
+[网站优化，这些工具你一定用得着](http://jartto.wang/2019/09/08/web-optimization-tools/)
+
+[SCIM:构建互联网的身份层](https://angelo-chan.github.io/2016/01/07/SCIM-%E6%9E%84%E5%BB%BA%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%B1%82/)
