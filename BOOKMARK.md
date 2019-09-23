@@ -219,3 +219,9 @@
 [网站优化，这些工具你一定用得着](http://jartto.wang/2019/09/08/web-optimization-tools/)
 
 [SCIM:构建互联网的身份层](https://angelo-chan.github.io/2016/01/07/SCIM-%E6%9E%84%E5%BB%BA%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%B1%82/)
+
+[用 JS 写游戏自动脚本是什么体验？](https://zhuanlan.zhihu.com/p/82350262)
+
+[Linux内核系统架构介绍](https://mp.weixin.qq.com/s/Wl8sYr9ydrLCBpTdFamFnw)
+
+[小程序底层实现原理及一些思考](https://zhuanlan.zhihu.com/p/81775922)
