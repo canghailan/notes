@@ -243,3 +243,9 @@
 [基于 Go 开源项目 MIMIO 的对象存储方案在探探的实践](https://mp.weixin.qq.com/s/YIKB_qAqqy6ydtFT_a_Ieg)
 
 [微博云原生技术的思考与实践](https://mp.weixin.qq.com/s/KlnmNThKJ2QgiR-2_pZPuQ)
+
+[一次出人意料而名留青史的DNS投毒攻击](https://mp.weixin.qq.com/s/KaIiJaKDrE2Q5iZ_GwBG1g)
+
+[深度剖析为什么 Python 中整型不会溢出？](https://mp.weixin.qq.com/s/IT4QFc7yd-rAOpKtIimQtQ)
+
+[时间片，从多任务系统说起](https://mp.weixin.qq.com/s/ILUh_fsdIx2qHGvtKaaCfQ)
