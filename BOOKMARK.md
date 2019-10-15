@@ -225,3 +225,21 @@
 [Linux内核系统架构介绍](https://mp.weixin.qq.com/s/Wl8sYr9ydrLCBpTdFamFnw)
 
 [小程序底层实现原理及一些思考](https://zhuanlan.zhihu.com/p/81775922)
+
+[进击的.NET 在云原生时代的蜕变](https://mp.weixin.qq.com/s/qfqk9BtiZ9i3iSJSYB-MaA)
+
+[Variable Fonts - 可变形字体](https://mp.weixin.qq.com/s/egsEvyiO3eYIk4Ge6zuaSQ)
+
+[标准化技术下的软件开发](https://insights.thoughtworks.cn/software-development-standardization/)
+
+[LONG究竟有多长，从皇帝的新衣到海康SDK](https://club.perfma.com/article/120301)
+
+[CentOS 8 都发布了，你还不会用 nftables？](https://mp.weixin.qq.com/s/VPBgIqlTiFe7KwqF1Q4pCA)
+
+[你所不知道的TIME_WAIT和CLOSE_WAIT](https://www.cnblogs.com/sunsky303/p/11642601.html)
+
+[对照谈-官方spring-boot-starter和自定义starter异同分析](https://zhuanlan.zhihu.com/p/86016511)
+
+[基于 Go 开源项目 MIMIO 的对象存储方案在探探的实践](https://mp.weixin.qq.com/s/YIKB_qAqqy6ydtFT_a_Ieg)
+
+[微博云原生技术的思考与实践](https://mp.weixin.qq.com/s/KlnmNThKJ2QgiR-2_pZPuQ)

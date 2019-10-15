@@ -36,6 +36,8 @@
 
 [K8S有状态服务-StatefulSet使用最佳实践](https://yq.aliyun.com/articles/629007)
 
+[用户数从 0 到亿，我的 K8s 踩坑血泪史](https://yq.aliyun.com/articles/717100)
+
 
 查看kubelet配置
 ```shell
