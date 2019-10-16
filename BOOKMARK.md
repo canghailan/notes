@@ -199,3 +199,66 @@
 [被神话的Linux, 一文带你看清Linux在多核可扩展性设计上的不足](https://mp.weixin.qq.com/s/SZXPWHzzUtCTGOurcItHlg)
 
 [Flutter Widget简介](https://book.flutterchina.club/chapter3/flutter_widget_intro.html)
+[端到端一致性,流系统Spark/Flink/Kafka/DataFlow对比总结(压箱宝具呕血之作)](https://zhuanlan.zhihu.com/p/77677075)
+
+[深入理解浏览器原理](https://mp.weixin.qq.com/s/QqpPGWf3IVEDN1t80CZ06Q)
+
+[美团点评Kubernetes集群管理实践](https://mp.weixin.qq.com/s/lYDYzEUlvXQhCO1xCJ7HAg)
+
+[Web 多媒体开发指南](https://www.jackpu.com/web-media-developer-guide/)
+
+[WEB验证的过去现在与未来](https://mp.weixin.qq.com/s/-PlSYKTgu9h-bYMknTKNkw)
+
+[现代流式计算的基石：Google DataFlow](https://mp.weixin.qq.com/s/1Y_6p1u4AK-IQVqDLYkP4Q)
+
+[CSS字体，从Level 1到Level 3](https://mp.weixin.qq.com/s/hU9rytnF4E7anm01mKOZ2Q)
+
+[这句简单的sql，如何加索引？颠覆了我多年的认知](https://mp.weixin.qq.com/s/uuavfy3O6UiKLfCesddCUA)
+
+[Golang实现单机百万长连接服务 - 美图的三年优化经验](https://mp.weixin.qq.com/s/xavjsa4NzRiVRxyMhifCDg)
+
+[Kafka是如何实现几十万的高并发写入](https://binchencoder.github.io/2019/08/28/kafka是如何实现几十万的高并发写入/)
+
+[列式存储系列（二）: Vertica](https://mp.weixin.qq.com/s/vjD8ViQGhnFqSr4hcSyHZA)
+
+[下一代JVM：GraalVM的十大特性](http://it.deepinmind.com/jvm/2019/08/27/graalvm-ten-things.html)
+
+[亿级规模的 Feed 流系统，如何轻松设计？](https://mp.weixin.qq.com/s/S6mflzwsqTGSW6eWG1v54w)
+
+[分布式消息系统，设计要点。画龙画虎难画骨](https://mp.weixin.qq.com/s/5sjiKmXlDv6gM3IcekEJew)
+
+[Kubernetes存储介绍系列 ——CSI plugin设计](http://newto.me/k8s-csi-design/)
+
+[网站优化，这些工具你一定用得着](http://jartto.wang/2019/09/08/web-optimization-tools/)
+
+[SCIM:构建互联网的身份层](https://angelo-chan.github.io/2016/01/07/SCIM-%E6%9E%84%E5%BB%BA%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E8%BA%AB%E4%BB%BD%E5%B1%82/)
+
+[用 JS 写游戏自动脚本是什么体验？](https://zhuanlan.zhihu.com/p/82350262)
+
+[Linux内核系统架构介绍](https://mp.weixin.qq.com/s/Wl8sYr9ydrLCBpTdFamFnw)
+
+[小程序底层实现原理及一些思考](https://zhuanlan.zhihu.com/p/81775922)
+
+[进击的.NET 在云原生时代的蜕变](https://mp.weixin.qq.com/s/qfqk9BtiZ9i3iSJSYB-MaA)
+
+[Variable Fonts - 可变形字体](https://mp.weixin.qq.com/s/egsEvyiO3eYIk4Ge6zuaSQ)
+
+[标准化技术下的软件开发](https://insights.thoughtworks.cn/software-development-standardization/)
+
+[LONG究竟有多长，从皇帝的新衣到海康SDK](https://club.perfma.com/article/120301)
+
+[CentOS 8 都发布了，你还不会用 nftables？](https://mp.weixin.qq.com/s/VPBgIqlTiFe7KwqF1Q4pCA)
+
+[你所不知道的TIME_WAIT和CLOSE_WAIT](https://www.cnblogs.com/sunsky303/p/11642601.html)
+
+[对照谈-官方spring-boot-starter和自定义starter异同分析](https://zhuanlan.zhihu.com/p/86016511)
+
+[基于 Go 开源项目 MIMIO 的对象存储方案在探探的实践](https://mp.weixin.qq.com/s/YIKB_qAqqy6ydtFT_a_Ieg)
+
+[微博云原生技术的思考与实践](https://mp.weixin.qq.com/s/KlnmNThKJ2QgiR-2_pZPuQ)
+
+[一次出人意料而名留青史的DNS投毒攻击](https://mp.weixin.qq.com/s/KaIiJaKDrE2Q5iZ_GwBG1g)
+
+[深度剖析为什么 Python 中整型不会溢出？](https://mp.weixin.qq.com/s/IT4QFc7yd-rAOpKtIimQtQ)
+
+[时间片，从多任务系统说起](https://mp.weixin.qq.com/s/ILUh_fsdIx2qHGvtKaaCfQ)
