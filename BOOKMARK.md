@@ -185,3 +185,17 @@
 [Text Buffer Reimplementation](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation)
 
 [吴恩达的 CS229，有人把它浓缩成 6 张中文速查表！](https://mp.weixin.qq.com/s/wos9wo7gKanhHVjEtEABvA)
+
+[Feed流系统设计-总纲](https://zhuanlan.zhihu.com/p/72882547)
+
+[浅谈内网端口转发](https://mp.weixin.qq.com/s/D2p2YzN23haOoXWTubaaug)
+
+[实现Kubernetes Operator的新方式：Python](https://mp.weixin.qq.com/s/EDsxHnfoOs1PNC5o7A_6uw)
+
+[K8s 实战之概念、集群部署与服务配置](https://zhuanlan.zhihu.com/p/79129668)
+
+[花椒服务端 gRPC 开发实践](https://mp.weixin.qq.com/s/d7u4TlWhJ1AeR8aG1Wok8w)
+
+[被神话的Linux, 一文带你看清Linux在多核可扩展性设计上的不足](https://mp.weixin.qq.com/s/SZXPWHzzUtCTGOurcItHlg)
+
+[Flutter Widget简介](https://book.flutterchina.club/chapter3/flutter_widget_intro.html)
