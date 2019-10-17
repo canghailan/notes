@@ -262,3 +262,11 @@
 [深度剖析为什么 Python 中整型不会溢出？](https://mp.weixin.qq.com/s/IT4QFc7yd-rAOpKtIimQtQ)
 
 [时间片，从多任务系统说起](https://mp.weixin.qq.com/s/ILUh_fsdIx2qHGvtKaaCfQ)
+
+[Flutter浪潮下的音视频研发探索](https://mp.weixin.qq.com/s/GqoAMeuv1VRDpWT65YMzsQ)
+
+[史上最全Windows安全工具锦集](https://www.freebuf.com/sectool/215644.html)
+
+[流式视频处理架构设计](https://mp.weixin.qq.com/s/YyFJrCbpyJBPWvsRDF1nsw)
+
+[Swift 的字符串为什么这么难用？](https://kemchenj.github.io/2019-10-07/)
