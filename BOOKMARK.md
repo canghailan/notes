@@ -270,3 +270,9 @@
 [流式视频处理架构设计](https://mp.weixin.qq.com/s/YyFJrCbpyJBPWvsRDF1nsw)
 
 [Swift 的字符串为什么这么难用？](https://kemchenj.github.io/2019-10-07/)
+
+[GO vs PHP ，谁更适合创业公司的中台搭建？](https://mp.weixin.qq.com/s/Gr6_VCMlBJFHINlDyYDUhA)
+
+[多云架构落地设计和实施方案](https://mp.weixin.qq.com/s?__biz=MzUxNTEwNTg5Mg==&mid=2247488364&idx=1&sn=b22ade7308b660c95837c2ed21300fe0&chksm=f9bae667cecd6f71ad481d3e8972156b4c97bef27b77ca746087b41604496e15332ba56408f5&token=2099814986&lang=zh_CN#rd)
+
+[FFA 指南：Apache Flink 1.9 的演进之路 ](https://mp.weixin.qq.com/s/Y79khE6NxVfKzXPjhsl1zw)
