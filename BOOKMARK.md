@@ -276,3 +276,9 @@
 [多云架构落地设计和实施方案](https://mp.weixin.qq.com/s?__biz=MzUxNTEwNTg5Mg==&mid=2247488364&idx=1&sn=b22ade7308b660c95837c2ed21300fe0&chksm=f9bae667cecd6f71ad481d3e8972156b4c97bef27b77ca746087b41604496e15332ba56408f5&token=2099814986&lang=zh_CN#rd)
 
 [FFA 指南：Apache Flink 1.9 的演进之路 ](https://mp.weixin.qq.com/s/Y79khE6NxVfKzXPjhsl1zw)
+
+[Java NIO：Buffer、Channel 和 Selector](https://my.oschina.net/u/3999152/blog/3118302)
+
+[去中心化的 RTC 通信平台架构设计](https://mp.weixin.qq.com/s/saAOhvxjOFMI6LUWMfF4iA)
+
+[花10分钟让你彻底学会Python定时任务框架apscheduler](https://zhuanlan.zhihu.com/p/46948464)
