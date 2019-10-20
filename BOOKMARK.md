@@ -282,3 +282,13 @@
 [去中心化的 RTC 通信平台架构设计](https://mp.weixin.qq.com/s/saAOhvxjOFMI6LUWMfF4iA)
 
 [花10分钟让你彻底学会Python定时任务框架apscheduler](https://zhuanlan.zhihu.com/p/46948464)
+
+[文字渲染那些事（二）文字的形状是怎么表示的？](https://juejin.im/post/5c54f19b6fb9a049d05e2b57)
+
+[Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
+
+[ANSI转义序列](https://zh.wikipedia.org/wiki/ANSI%E8%BD%AC%E4%B9%89%E5%BA%8F%E5%88%97)
+
+[Geometry 概述](https://docs.microsoft.com/zh-cn/dotnet/framework/wpf/graphics-multimedia/geometry-overview)
+
+[Web Video Text Tracks Format (WebVTT)](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API)
