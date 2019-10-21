@@ -292,3 +292,7 @@
 [Geometry 概述](https://docs.microsoft.com/zh-cn/dotnet/framework/wpf/graphics-multimedia/geometry-overview)
 
 [Web Video Text Tracks Format (WebVTT)](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API)
+
+[.NET框架之“小马过河” ](https://mp.weixin.qq.com/s/VQUePAtCjhhhjWXlXqCesQ)
+
+[Vulkan - 高性能渲染](https://zhuanlan.zhihu.com/p/20712354)
