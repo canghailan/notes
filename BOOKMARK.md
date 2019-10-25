@@ -296,3 +296,11 @@
 [.NET框架之“小马过河” ](https://mp.weixin.qq.com/s/VQUePAtCjhhhjWXlXqCesQ)
 
 [Vulkan - 高性能渲染](https://zhuanlan.zhihu.com/p/20712354)
+
+[阿里云容器服务Kubernetes之Jenkins X（1）-安装部署实践篇](https://yq.aliyun.com/articles/657149)
+
+[Jenkins X](https://jenkins-x.io/zh/getting-started/)
+
+[微服务架构开发和平台演进](https://mp.weixin.qq.com/s/YORjPfMB2GlBtTZyS0cIgg)
+
+[起底阿里完整前端技术体系](https://mp.weixin.qq.com/s/Fr2V283GT_yvx8xqAVOn5A)
