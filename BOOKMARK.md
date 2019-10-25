@@ -304,3 +304,9 @@
 [微服务架构开发和平台演进](https://mp.weixin.qq.com/s/YORjPfMB2GlBtTZyS0cIgg)
 
 [起底阿里完整前端技术体系](https://mp.weixin.qq.com/s/Fr2V283GT_yvx8xqAVOn5A)
+
+[基于 NodeJS 的 serverless 架构实践](https://mp.weixin.qq.com/s/rR8VK7RodyCofOiSehF6fA)
+
+[从零入门 K8s| 人人都能看懂 Pod 与容器设计模式](https://mp.weixin.qq.com/s/OW7zvGhPgGAnBuo4A_SXFw)
+
+[「Shape Up」 适合中小团队的一种工作方式 ](https://rebornix.com/work/2019/10/18/Shape-Up)
