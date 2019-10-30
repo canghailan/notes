@@ -310,3 +310,13 @@
 [从零入门 K8s| 人人都能看懂 Pod 与容器设计模式](https://mp.weixin.qq.com/s/OW7zvGhPgGAnBuo4A_SXFw)
 
 [「Shape Up」 适合中小团队的一种工作方式 ](https://rebornix.com/work/2019/10/18/Shape-Up)
+
+[现代浏览器观察者 Observer API 指南](https://mp.weixin.qq.com/s/13Oe8ZClOLBWfve7NjFVDA)
+
+[400 行 C 代码实现一个虚拟机（2018）](https://arthurchiao.github.io/blog/write-your-own-virtual-machine-zh/)
+
+[基于Calcite自定义SQL解析器](https://mp.weixin.qq.com/s/hbMtG-Bet5FHCjs9_zcc0g)
+
+[跨平台技术演进及Flutter未来](https://mp.weixin.qq.com/s/UZQU-PWM5JEb3dYtZKT6Cw)
+
+[【转】你真的了解当年看过的AVi么](https://www.jackpu.com/zhuan-ni-zhen-de-liao-jie-dang-nian-kan-guo-de-aviyao/)
