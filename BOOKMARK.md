@@ -320,3 +320,5 @@
 [跨平台技术演进及Flutter未来](https://mp.weixin.qq.com/s/UZQU-PWM5JEb3dYtZKT6Cw)
 
 [【转】你真的了解当年看过的AVi么](https://www.jackpu.com/zhuan-ni-zhen-de-liao-jie-dang-nian-kan-guo-de-aviyao/)
+
+[Django实现WebSSH操作Kubernetes Pod](https://mp.weixin.qq.com/s/FHDyvHsh-oO1cn7AXk_4WA)
