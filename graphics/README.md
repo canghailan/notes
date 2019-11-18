@@ -9,3 +9,7 @@
 [golang/freetype](https://github.com/golang/freetype)
 
 [go-gl/glfw](https://github.com/go-gl/glfw)
+
+[gpuweb](https://gpuweb.github.io/gpuweb/)
+
+[Web也要在GPU并行计算中分一杯羹？](https://yrq110.me/post/front-end/try-gpu-operations-in-web/)

@@ -38,6 +38,8 @@
 
 [用户数从 0 到亿，我的 K8s 踩坑血泪史](https://yq.aliyun.com/articles/717100)
 
+[如何支持私有镜像](https://help.aliyun.com/document_detail/86562.html)
+
 
 查看kubelet配置
 ```shell
