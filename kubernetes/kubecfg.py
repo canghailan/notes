@@ -16,6 +16,7 @@ def save(args):
     kube = Path.home() / ".kube"
     src = kube / "config"
     dst = kube / "config.d" / args.name
+    os.makedirs(kube / "config.d", exist_ok=True)
     shutil.copyfile(src, dst)
     print(f"save {dst}")
 
