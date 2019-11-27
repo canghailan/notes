@@ -338,3 +338,5 @@
 [Bing搜索核心技术BitFunnel原理](https://mp.weixin.qq.com/s/RFHNMyFxK-PVpvlAa_wc0w)
 
 [零基础，史上最通俗视频编码技术入门](https://my.oschina.net/u/4231722/blog/3131158)
+
+[在HTML5上开发音视频应用的五种思路](https://mp.weixin.qq.com/s/gavwtFdQ69NEnimr_RSNlw)
