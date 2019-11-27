@@ -334,3 +334,7 @@
 [Apache ServiceComb Java Chassis](https://docs.servicecomb.io/java-chassis/zh_CN/)
 
 [行业内关于智能客服、聊天机器人的应用和架构、算法分享和介绍](https://github.com/lizhe2004/chatbot-list)
+
+[Bing搜索核心技术BitFunnel原理](https://mp.weixin.qq.com/s/RFHNMyFxK-PVpvlAa_wc0w)
+
+[零基础，史上最通俗视频编码技术入门](https://my.oschina.net/u/4231722/blog/3131158)
