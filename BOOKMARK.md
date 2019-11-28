@@ -340,3 +340,7 @@
 [零基础，史上最通俗视频编码技术入门](https://my.oschina.net/u/4231722/blog/3131158)
 
 [在HTML5上开发音视频应用的五种思路](https://mp.weixin.qq.com/s/gavwtFdQ69NEnimr_RSNlw)
+
+[在VS Code中编写Jupyter Notebook](https://mp.weixin.qq.com/s/9gSdWX7lw1HJdB1_hPUypg)
+
+[WebSocket实现Web端即时通信](https://mp.weixin.qq.com/s/sbIWO7-2ELdHsekw7qxKjw)
