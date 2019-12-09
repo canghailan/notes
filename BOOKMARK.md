@@ -344,3 +344,17 @@
 [在VS Code中编写Jupyter Notebook](https://mp.weixin.qq.com/s/9gSdWX7lw1HJdB1_hPUypg)
 
 [WebSocket实现Web端即时通信](https://mp.weixin.qq.com/s/sbIWO7-2ELdHsekw7qxKjw)
+
+[vscode的C++开发环境配置-win10下Linux子系统](https://my.oschina.net/u/3201657/blog/3135533)
+
+[JavaScript 正则表达式匹配汉字](https://zhuanlan.zhihu.com/p/33335629)
+
+[CNCF官方大使张磊：什么是云原生？](https://yq.aliyun.com/articles/737062)
+
+[CNCF × Alibaba 云原生技术公开课](https://edu.aliyun.com/lesson_1651_17052)
+
+[Systrace 基础知识 - Vsync 解读](https://www.androidperformance.com/2019/12/01/Android-Systrace-Vsync/)
+
+[Web 播放 AV1 概述](https://www.jackpu.com/web-bo-fang-av1-gai-shu/)
+
+[AV1 VS HEVC VS VP9](https://www.jackpu.com/av1-vs-hevc-vs-vp9/)
