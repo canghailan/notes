@@ -358,3 +358,35 @@
 [Web 播放 AV1 概述](https://www.jackpu.com/web-bo-fang-av1-gai-shu/)
 
 [AV1 VS HEVC VS VP9](https://www.jackpu.com/av1-vs-hevc-vs-vp9/)
+
+[从技术演变的角度看互联网后台架构](https://cloud.tencent.com/developer/article/1404117)
+
+[CNCF官方大使张磊：什么是云原生？](https://yq.aliyun.com/articles/737062)
+
+[花椒web端实时互动流媒体播放器](https://mp.weixin.qq.com/s/FkVisClOWBSLSw0UFh7Wig)
+
+[基于Calcite自定义JDBC Driver](https://mp.weixin.qq.com/s?__biz=MzI3MDU3OTc1Nw==&mid=2247484512&idx=1&sn=487ecfa1e1d34c66027ec030a24425d3&chksm=eacfa522ddb82c3459afd8ea6a0fb2067c3a7861755c4046959ce2729661efa81eae13cbdd0b&token=1881562873&lang=zh_CN#rd)
+
+[大比拼 | 下一代高性能跨平台UI渲染引擎](https://mp.weixin.qq.com/s/BPFldh8uPsv-hvVQbYlTOg)
+
+[余额宝背后的服务治理架构](https://mp.weixin.qq.com/s/R5pNKHBPJno-eI5BificjQ)
+
+[IT部门的KPI怎么定](https://mp.weixin.qq.com/s/akMSX928G1Q3Aqv211b_oA)
+
+[利用 FC + OSS 快速搭建 Serverless 实时按需图像处理服务](https://yq.aliyun.com/articles/738982)
+
+[轻松构建基于 Serverless 架构的弹性高可用音视频处理系统](https://yq.aliyun.com/articles/727684)
+
+[十分钟上线-FC&IMM构建serverless文档转换/预览服务](https://yq.aliyun.com/articles/646479)
+
+[使用阿里云函数计算和 Websocket，轻松开发 Serverless 实时应用](https://yq.aliyun.com/articles/421842)
+
+[手把手教您将 libreoffice 移植到函数计算平台](https://yq.aliyun.com/articles/674330)
+
+[基于对象存储 OSS 的智能数据分析处理框架和功能](https://yq.aliyun.com/articles/719880)
+
+[Serverless 实战——使用 Rendertron 搭建 Headless Chrome 渲染解决方案](https://yq.aliyun.com/articles/739001)
+
+[开放下载 | 《Knative 云原生应用开发指南》开启云原生时代 Serverless 之门](https://developer.aliyun.com/article/739122)
+
+[kubernetes原生CI/CD工具：Tekton探秘与上手实践](https://zhuanlan.zhihu.com/p/79741277)
