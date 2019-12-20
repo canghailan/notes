@@ -390,3 +390,15 @@
 [开放下载 | 《Knative 云原生应用开发指南》开启云原生时代 Serverless 之门](https://developer.aliyun.com/article/739122)
 
 [kubernetes原生CI/CD工具：Tekton探秘与上手实践](https://zhuanlan.zhihu.com/p/79741277)
+
+[【译】Web 视频播放前前后后](https://www.jackpu.com/yi-web-shi-pin-bo-fang-qian-qian-hou-hou/)
+
+[句子相似度的计算 | NLP基础](https://mp.weixin.qq.com/s/BEwVGVhTMMygOoEwQGvfjg)
+
+[WSL 使用指南——04 安装桌面环境](https://zhuanlan.zhihu.com/p/34884285)
+
+[从大数据到数据库](https://mp.weixin.qq.com/s/dwL5BP8M6-JNtfN5f5ewFg)
+
+[探讨 Git 代码托管平台的若干问题 - 2019 版](https://my.oschina.net/GIIoOS/blog/3145051)
+
+[微信团队分享：极致优化，iOS版微信编译速度3倍提升的实践总结](https://my.oschina.net/u/4231722/blog/3145104)
