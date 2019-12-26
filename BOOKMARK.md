@@ -402,3 +402,5 @@
 [探讨 Git 代码托管平台的若干问题 - 2019 版](https://my.oschina.net/GIIoOS/blog/3145051)
 
 [微信团队分享：极致优化，iOS版微信编译速度3倍提升的实践总结](https://my.oschina.net/u/4231722/blog/3145104)
+
+[京东微信购物首页性能优化实践](https://mp.weixin.qq.com/s/BkTMFGswywNIQRLREOxxKw)
