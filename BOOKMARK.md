@@ -402,3 +402,13 @@
 [探讨 Git 代码托管平台的若干问题 - 2019 版](https://my.oschina.net/GIIoOS/blog/3145051)
 
 [微信团队分享：极致优化，iOS版微信编译速度3倍提升的实践总结](https://my.oschina.net/u/4231722/blog/3145104)
+
+[简单聊聊视频基本概念以及在信息流内容中心的处理](https://mp.weixin.qq.com/s/2DdKQJvkMqJJKEagUSFU8g)
+
+[从 React 历史的长河里聊虚拟DOM及其价值](https://mp.weixin.qq.com/s/zCGQEpEGJYQWMMvZfyUYHg)
+
+[持续交付与可用性](https://mp.weixin.qq.com/s/EtjhF8QeH9qbIZpBXKeFBQ)
+
+[Web 图片优化指南](https://nextfe.com/optimize-image/)
+
+[消息中间件的发展史是一个有趣的历史故事](https://mp.weixin.qq.com/s/i-fSolJl7j7bjr08LnxTUQ)
