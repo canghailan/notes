@@ -412,3 +412,5 @@
 [Web 图片优化指南](https://nextfe.com/optimize-image/)
 
 [消息中间件的发展史是一个有趣的历史故事](https://mp.weixin.qq.com/s/i-fSolJl7j7bjr08LnxTUQ)
+
+[京东微信购物首页性能优化实践](https://mp.weixin.qq.com/s/BkTMFGswywNIQRLREOxxKw)

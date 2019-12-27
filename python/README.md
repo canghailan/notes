@@ -14,3 +14,7 @@ PIPENV_PYPI_MIRROR=https://mirrors.aliyun.com/pypi/simple
 PIPENV_VENV_IN_PROJECT=1
 PIPENV_SKIP_VALIDATION=1
 ```
+
+[starlette](https://github.com/encode/starlette)
+
+[pyodide](https://github.com/iodide-project/pyodide/)
