@@ -414,3 +414,5 @@
 [消息中间件的发展史是一个有趣的历史故事](https://mp.weixin.qq.com/s/i-fSolJl7j7bjr08LnxTUQ)
 
 [京东微信购物首页性能优化实践](https://mp.weixin.qq.com/s/BkTMFGswywNIQRLREOxxKw)
+
+[Qcon2017实录|Service Mesh：下一代微服务](https://www.jianshu.com/p/987155ce2298)
