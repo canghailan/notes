@@ -404,3 +404,5 @@
 [微信团队分享：极致优化，iOS版微信编译速度3倍提升的实践总结](https://my.oschina.net/u/4231722/blog/3145104)
 
 [京东微信购物首页性能优化实践](https://mp.weixin.qq.com/s/BkTMFGswywNIQRLREOxxKw)
+
+[编程语言中的 6 种内存模型（2016）](https://arthurchiao.github.io/blog/memory-models-underlie-programming-languages-zh/)
