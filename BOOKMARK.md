@@ -403,6 +403,24 @@
 
 [微信团队分享：极致优化，iOS版微信编译速度3倍提升的实践总结](https://my.oschina.net/u/4231722/blog/3145104)
 
+<<<<<<< HEAD
 [京东微信购物首页性能优化实践](https://mp.weixin.qq.com/s/BkTMFGswywNIQRLREOxxKw)
 
 [编程语言中的 6 种内存模型（2016）](https://arthurchiao.github.io/blog/memory-models-underlie-programming-languages-zh/)
+=======
+[简单聊聊视频基本概念以及在信息流内容中心的处理](https://mp.weixin.qq.com/s/2DdKQJvkMqJJKEagUSFU8g)
+
+[从 React 历史的长河里聊虚拟DOM及其价值](https://mp.weixin.qq.com/s/zCGQEpEGJYQWMMvZfyUYHg)
+
+[持续交付与可用性](https://mp.weixin.qq.com/s/EtjhF8QeH9qbIZpBXKeFBQ)
+
+[Web 图片优化指南](https://nextfe.com/optimize-image/)
+
+[消息中间件的发展史是一个有趣的历史故事](https://mp.weixin.qq.com/s/i-fSolJl7j7bjr08LnxTUQ)
+
+[京东微信购物首页性能优化实践](https://mp.weixin.qq.com/s/BkTMFGswywNIQRLREOxxKw)
+
+[Qcon2017实录|Service Mesh：下一代微服务](https://www.jianshu.com/p/987155ce2298)
+
+[下一代微服务！微博Service Mesh高可用架构实战](https://developer.51cto.com/art/201903/593615.htm)
+>>>>>>> 2f2bb0166c7f2b18f70fb258cc46d5d72e369775
