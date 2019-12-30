@@ -414,3 +414,5 @@
 [消息中间件的发展史是一个有趣的历史故事](https://mp.weixin.qq.com/s/i-fSolJl7j7bjr08LnxTUQ)
 
 [京东微信购物首页性能优化实践](https://mp.weixin.qq.com/s/BkTMFGswywNIQRLREOxxKw)
+
+[2020工具产品智能化趋势](https://mp.weixin.qq.com/s/1RGyMtEGpJOBJAGqTjGo7Q)
