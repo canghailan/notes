@@ -426,3 +426,7 @@
 [下一代微服务！微博Service Mesh高可用架构实战](https://developer.51cto.com/art/201903/593615.htm)
 
 [ECharts 技术发展简史](https://www.toutiao.com/a6775645161075507715/)
+
+[RDS for SQL Server常用视图](https://help.aliyun.com/knowledge_detail/51579.html)
+
+[RDS for SQL Server如何查看实例、数据库及表占用的空间大小](https://help.aliyun.com/knowledge_detail/41800.html)
