@@ -434,3 +434,7 @@
 [RDS for SQL Server常用视图](https://help.aliyun.com/knowledge_detail/51579.html)
 
 [RDS for SQL Server如何查看实例、数据库及表占用的空间大小](https://help.aliyun.com/knowledge_detail/41800.html)
+
+[为什么 MongoDB 使用 B 树 · Why's THE Design?](https://draveness.me/whys-the-design-mongodb-b-tree)
+
+[使用Curator在腾讯云Elasticsearch中自动删除过期数据](https://cloud.tencent.com/developer/article/1361207)
