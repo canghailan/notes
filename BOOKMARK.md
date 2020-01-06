@@ -438,3 +438,5 @@
 [为什么 MongoDB 使用 B 树 · Why's THE Design?](https://draveness.me/whys-the-design-mongodb-b-tree)
 
 [使用Curator在腾讯云Elasticsearch中自动删除过期数据](https://cloud.tencent.com/developer/article/1361207)
+
+[之家经销商技术部日志系统设计实现](https://github.com/AutohomeCorp/frostmourne/blob/master/doc/wiki/design.md)
