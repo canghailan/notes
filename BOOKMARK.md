@@ -442,3 +442,5 @@
 [之家经销商技术部日志系统设计实现](https://github.com/AutohomeCorp/frostmourne/blob/master/doc/wiki/design.md)
 
 [腾讯云专家工程师首次揭秘下一代虚拟网络架构](https://mp.weixin.qq.com/s?__biz=MzA5NzU3MDczNA==&mid=2247483723&idx=1&sn=2f0ec1e3f689cb3f76e5e2e099c994a4&chksm=909f9b8aa7e8129cfe127c05a64140212171b876263358633c1b82ef8129e745037b1441d635&mpshare=1&scene=1&srcid=&sharer_sharetime=1578148021370&sharer_shareid=811a53f8f452f73db568559aaca8bacb&exportkey=AQBHElgu4pe3lzqmsL0WNoM=&pass_ticket=CmlbcM9EruW8tjPgDYWMXSgtO9gFJJFKIYoMQjAJZISDbq/COYNCk+0wTmgBmUSj#rd)
+
+[MySQL 过渡 PostgreSQL 经验分享](https://mp.weixin.qq.com/s/T4xvQ_dFcvLNLbyvong0yw)
