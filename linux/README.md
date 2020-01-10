@@ -24,3 +24,8 @@ dhclient
 ```shell
 ip addr del 1.1.1.1/24 dev eth0
 ```
+
+删除密码
+```shell
+passwd -d root
+```
