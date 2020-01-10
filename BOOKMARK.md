@@ -450,3 +450,5 @@
 [探探长链接项目的Go语言实践](https://mp.weixin.qq.com/s/XW1QHbKVGHAfX-iY8rnB5A)
 
 [美团开源Logan Web：前端日志在Web端的实现](https://mp.weixin.qq.com/s/j_8_kSQ4BrYR-UzIEIEIbw)
+
+[如何在系统内直接抓容器的网络报文](https://yq.aliyun.com/articles/742062)
