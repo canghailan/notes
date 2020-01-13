@@ -452,3 +452,27 @@
 [美团开源Logan Web：前端日志在Web端的实现](https://mp.weixin.qq.com/s/j_8_kSQ4BrYR-UzIEIEIbw)
 
 [如何在系统内直接抓容器的网络报文](https://yq.aliyun.com/articles/742062)
+
+[Tinder：如何在两年内迁移上 Kubernetes](https://zhuanlan.zhihu.com/p/80782106)
+
+[网易云微服务框架在不同场景下的设计与实现](https://zhuanlan.zhihu.com/p/56125646)
+
+[DockOne微信分享（二四二）：Open Policy Agent在Kubernetes中的应用 ](http://dockone.io/article/9560)
+
+[Istio ｜部署 Service Mesh 简化微服务通信](https://zhuanlan.zhihu.com/p/43833750)
+
+[华为云在 K8S 大规模场景下的 Service 性能优化实践](https://zhuanlan.zhihu.com/p/37230013)
+
+[酷家乐的 Istio 与 Knative 实践](https://mp.weixin.qq.com/s/LN4_lkHzGGYa3GrFa7osuQ)
+
+[分布式系统 in 2010s ：存储之数据库篇](https://www.infoq.cn/article/x7hVZr1qtGaMwbXOW0BL)
+
+[分布式系统 in 2010s ：软件构建方式和演化](https://www.infoq.cn/article/fqSK5I13LKax59PMboLJ)
+
+[分布式系统 in 2010s ：硬件的进化](https://www.infoq.cn/article/BSuTIyekMpzDVuQQTpMj)
+
+[2010 年代的分布式系统（四）：测试和运维](https://www.infoq.cn/article/lFYt0wlWSpv25LmjwC8Y)
+
+[微服务架构何去何从？](https://www.infoq.cn/article/YjFNsy4j5cVle2WEYNz4)
+
+[Redis · 引擎特性 · Lua脚本新姿势](http://mysql.taobao.org/monthly/2019/01/06/) #使用redis.replicate_commands()允许随机写入
