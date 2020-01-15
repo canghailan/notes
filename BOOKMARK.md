@@ -476,3 +476,9 @@
 [微服务架构何去何从？](https://www.infoq.cn/article/YjFNsy4j5cVle2WEYNz4)
 
 [Redis · 引擎特性 · Lua脚本新姿势](http://mysql.taobao.org/monthly/2019/01/06/) #使用redis.replicate_commands()允许随机写入
+
+[RPC Benchmark Round 5](https://www.jianshu.com/p/cdd94d0853c3)
+
+[FFmpeg 视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)
+
+[蚂蚁金服 API Gateway Mesh 思考与实践](https://juejin.im/post/5e1e8dd7f265da3e220a8a72)
