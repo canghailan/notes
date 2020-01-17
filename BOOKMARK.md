@@ -482,3 +482,11 @@
 [FFmpeg 视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)
 
 [蚂蚁金服 API Gateway Mesh 思考与实践](https://juejin.im/post/5e1e8dd7f265da3e220a8a72)
+
+[一文读懂 HTTP/1HTTP/2HTTP/3](https://mp.weixin.qq.com/s/fy84edOix5tGgcvdFkJi2w)
+
+[将军令：数据安全平台建设实践](https://tech.meituan.com/2019/02/14/data-security-platform-construction-practice-jiangjunling.html)
+
+[OneData建设探索之路：SaaS收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)
+
+[adb如何连接mumu模拟器](http://mumu.163.com/2017/12/19/25241_730476.html?type=notice)
