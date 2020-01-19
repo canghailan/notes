@@ -496,3 +496,5 @@
 [得到 Hybrid 架构的演进之路](https://juejin.im/post/5e20483bf265da3e3a53767b)
 
 [深入剖析Kafka](https://mp.weixin.qq.com/s/CMPlIDl5RIIBVsvpKw_w9Q)
+
+[Typescript-on-LLVM](http://www.cs.columbia.edu/~sedwards/classes/2018/4115-fall/reports/Typescript-on-LLVM.pdf)
