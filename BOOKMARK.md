@@ -490,3 +490,9 @@
 [OneData建设探索之路：SaaS收银运营数仓建设](https://tech.meituan.com/2019/10/17/meituan-saas-data-warehouse.html)
 
 [adb如何连接mumu模拟器](http://mumu.163.com/2017/12/19/25241_730476.html?type=notice)
+
+[微服务拆分及技术选型(2019总结版)](https://www.naah69.com/post/2020-01-04-microservice-servicemesh-thinkabout/)
+
+[得到 Hybrid 架构的演进之路](https://juejin.im/post/5e20483bf265da3e3a53767b)
+
+[深入剖析Kafka](https://mp.weixin.qq.com/s/CMPlIDl5RIIBVsvpKw_w9Q)
