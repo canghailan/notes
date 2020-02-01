@@ -498,3 +498,29 @@
 [深入剖析Kafka](https://mp.weixin.qq.com/s/CMPlIDl5RIIBVsvpKw_w9Q)
 
 [Typescript-on-LLVM](http://www.cs.columbia.edu/~sedwards/classes/2018/4115-fall/reports/Typescript-on-LLVM.pdf)
+
+[“云”端的语雀：用 JavaScript 全栈打造商业级应用](https://www.yuque.com/seeconf/2020/dn74yy)
+
+[富文本编辑器的技术演进](https://myslide.cn/slides/21863)
+
+[ShareDB 简单使用介绍](https://nicktogo.github.io/2017/05/13/ShareDB-simple-usage/)
+
+[这也许就是产品和开发互撕的本质原因吧](https://mp.weixin.qq.com/s/PrShfNpDxrvakheUefvzcw)
+
+[蚂蚁金服 API Gateway Mesh 思考与实践](https://mp.weixin.qq.com/s/o4yrZXhW4tnggctL03t7kw)
+
+[一个输入框你要做一周？](https://insights.thoughtworks.cn/an-input-box/)
+
+[MySQL 的 InnoDB 存储引擎是怎么设计的？](http://bridgeforyou.cn/2020/01/11/mysql-innodb-structure/)
+
+[在 Kubernetes 上运行 Kafka 合适吗？](https://mp.weixin.qq.com/s/mBS9sSq_wXgJQ4EBYxgWaA)
+
+[PCM编码与Waveform音频文件(.wav)格式详解](https://mp.weixin.qq.com/s/Lgf3Uu9dauedMvwIQT9gkQ)
+
+[高质量前端快照方案：来自页面的「自拍」](https://mp.weixin.qq.com/s/ebxO5MtkQHi-U21MO6LIuA)
+
+[任务调度神器 airflow 之初体验](https://mp.weixin.qq.com/s/gayYbQrMEa4aOMohvSHRNw)
+
+[CICD: Tekton Pipeline 实战](https://atbug.com/tekton-pipeline-practice/)
+
+[PingCAP 的 5 年远程办公实践](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA)
