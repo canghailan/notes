@@ -1,3 +1,9 @@
+查看TCP连接状态
+```shell
+netstat -ant|awk '/^tcp/ {++S[$NF]} END {for(a in S) print (a,S[a])}'
+```
+
+
 查找Inode占用最多文件
 ```shell
 cd /var/lib/docker/aufs/diff

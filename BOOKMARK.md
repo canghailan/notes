@@ -524,3 +524,15 @@
 [CICD: Tekton Pipeline 实战](https://atbug.com/tekton-pipeline-practice/)
 
 [PingCAP 的 5 年远程办公实践](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA)
+
+[应急响应笔记之Linux篇](https://mp.weixin.qq.com/s/cdmHQevhVRvU9dlewx9Xvg)
+
+[C++ 日期和时间编程](https://paul.pub/cpp-date-time/)
+
+[从技术负责人角度谈IT产品管理](https://hongkaiwen.gitee.io/kuzan/2018/07/13/%E4%BB%8E%E6%8A%80%E6%9C%AF%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A7%92%E5%BA%A6%E8%B0%88IT%E4%BA%A7%E5%93%81%E7%AE%A1%E7%90%86/)
+
+[一次让刷新控件好玩起来的尝试](https://mp.weixin.qq.com/s/TOWIpYWfxxtgHE6oYDEd4g)
+
+[[译] 简明 x86 汇编指南](https://arthurchiao.github.io/blog/x86-asm-guide-zh/)
+
+[tomcat参数以及tcp连接-性能调优实验](https://blog.csdn.net/mayongzhan_csdn/article/details/102931268)
