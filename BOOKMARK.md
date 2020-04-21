@@ -536,3 +536,16 @@
 [[译] 简明 x86 汇编指南](https://arthurchiao.github.io/blog/x86-asm-guide-zh/)
 
 [tomcat参数以及tcp连接-性能调优实验](https://blog.csdn.net/mayongzhan_csdn/article/details/102931268)
+[Kafka 源码解析之 Producer Metadata 更新机制（二）](https://matt33.com/2017/07/08/kafka-producer-metadata/)
+
+[外部访问 k8s 中的 kafka 集群](http://lxkaka.wang/2019/10/25/k8s-kafka/)
+
+[白瑜庆：知乎基于Kubernetes的kafka平台的设计和实现](https://zhuanlan.zhihu.com/p/36366473)
+
+[图解 Kubernetes](https://mp.weixin.qq.com/s?__biz=MzA4Nzc4MjI4MQ==&mid=2652403349&idx=1&sn=0e2ea122519125f466076393230496bf&chksm=8bd8f073bcaf79652a045131cf106ab37112be95e485c9f94c633da5e759263c7ab4473218cd&token=1554267214&lang=zh_CN#rd)
+
+[如何进行 web 性能监控？](http://www.alloyteam.com/2020/01/14184/)
+
+[An introduction to Kubernetes](https://mp.weixin.qq.com/s/EqyiMWZISM_p2UELRdNCaw)
+
+[SpringBoot中的定时任务@Scheduled的使用详情及可能出现的坑](https://mp.weixin.qq.com/s/9MzaFFb-CK4uxwRiDh5oPw)
