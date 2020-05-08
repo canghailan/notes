@@ -536,3 +536,11 @@
 [[译] 简明 x86 汇编指南](https://arthurchiao.github.io/blog/x86-asm-guide-zh/)
 
 [tomcat参数以及tcp连接-性能调优实验](https://blog.csdn.net/mayongzhan_csdn/article/details/102931268)
+
+[基于Win10单机部署kubernetes应用](https://mp.weixin.qq.com/s/qOqMoEeM9zkMk3wQ7RrN-A)
+
+[音视频基础之多媒体封装格式](https://mp.weixin.qq.com/s/BPQROPSJXPoR_ooKxXw1wg)
+
+[挖财 Kubernetes 容器化之路](https://blog.opskumu.com/wacai-docker.html)
+
+[用户画像建模与应用](https://mp.weixin.qq.com/s/-NVpQVn0FPoJR4aE5c60zQ)
