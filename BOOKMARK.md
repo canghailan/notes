@@ -536,6 +536,7 @@
 [[译] 简明 x86 汇编指南](https://arthurchiao.github.io/blog/x86-asm-guide-zh/)
 
 [tomcat参数以及tcp连接-性能调优实验](https://blog.csdn.net/mayongzhan_csdn/article/details/102931268)
+
 [Kafka 源码解析之 Producer Metadata 更新机制（二）](https://matt33.com/2017/07/08/kafka-producer-metadata/)
 
 [外部访问 k8s 中的 kafka 集群](http://lxkaka.wang/2019/10/25/k8s-kafka/)
@@ -561,3 +562,11 @@
 [5000并发nginx性能优化调试记录](https://zhizhebuyan.com/2018/10/05/5000%E5%B9%B6%E5%8F%91nginx%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%B0%83%E8%AF%95%E8%AE%B0%E5%BD%95/)
 
 [服务器端性能优化 提升Qps、rt](https://www.slideshare.net/kidwish/qpsrt)
+
+[基于Win10单机部署kubernetes应用](https://mp.weixin.qq.com/s/qOqMoEeM9zkMk3wQ7RrN-A)
+
+[音视频基础之多媒体封装格式](https://mp.weixin.qq.com/s/BPQROPSJXPoR_ooKxXw1wg)
+
+[挖财 Kubernetes 容器化之路](https://blog.opskumu.com/wacai-docker.html)
+
+[用户画像建模与应用](https://mp.weixin.qq.com/s/-NVpQVn0FPoJR4aE5c60zQ)
