@@ -549,3 +549,15 @@
 [An introduction to Kubernetes](https://mp.weixin.qq.com/s/EqyiMWZISM_p2UELRdNCaw)
 
 [SpringBoot中的定时任务@Scheduled的使用详情及可能出现的坑](https://mp.weixin.qq.com/s/9MzaFFb-CK4uxwRiDh5oPw)
+
+[挖财 Kubernetes 容器化之路](https://blog.opskumu.com/wacai-docker)
+
+[性能压测与调优总结](https://kiswo.com/article/1028)
+
+[一次简单通用的压测调优实战](https://www.wangtianyi.top/blog/2018/12/08/yi-ci-ji-yu-wei-fu-wu-kuang-jia-de-tong-yong-ya-ce-diao-you-shi-zhan/)
+
+[项目压测及调优](https://blog.zhimma.com/2019/12/02/%E9%A1%B9%E7%9B%AE%E5%8E%8B%E6%B5%8B%E5%8F%8A%E8%B0%83%E4%BC%98/)
+
+[5000并发nginx性能优化调试记录](https://zhizhebuyan.com/2018/10/05/5000%E5%B9%B6%E5%8F%91nginx%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%B0%83%E8%AF%95%E8%AE%B0%E5%BD%95/)
+
+[服务器端性能优化 提升Qps、rt](https://www.slideshare.net/kidwish/qpsrt)
