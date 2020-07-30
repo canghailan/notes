@@ -537,6 +537,32 @@
 
 [tomcat参数以及tcp连接-性能调优实验](https://blog.csdn.net/mayongzhan_csdn/article/details/102931268)
 
+[Kafka 源码解析之 Producer Metadata 更新机制（二）](https://matt33.com/2017/07/08/kafka-producer-metadata/)
+
+[外部访问 k8s 中的 kafka 集群](http://lxkaka.wang/2019/10/25/k8s-kafka/)
+
+[白瑜庆：知乎基于Kubernetes的kafka平台的设计和实现](https://zhuanlan.zhihu.com/p/36366473)
+
+[图解 Kubernetes](https://mp.weixin.qq.com/s?__biz=MzA4Nzc4MjI4MQ==&mid=2652403349&idx=1&sn=0e2ea122519125f466076393230496bf&chksm=8bd8f073bcaf79652a045131cf106ab37112be95e485c9f94c633da5e759263c7ab4473218cd&token=1554267214&lang=zh_CN#rd)
+
+[如何进行 web 性能监控？](http://www.alloyteam.com/2020/01/14184/)
+
+[An introduction to Kubernetes](https://mp.weixin.qq.com/s/EqyiMWZISM_p2UELRdNCaw)
+
+[SpringBoot中的定时任务@Scheduled的使用详情及可能出现的坑](https://mp.weixin.qq.com/s/9MzaFFb-CK4uxwRiDh5oPw)
+
+[挖财 Kubernetes 容器化之路](https://blog.opskumu.com/wacai-docker)
+
+[性能压测与调优总结](https://kiswo.com/article/1028)
+
+[一次简单通用的压测调优实战](https://www.wangtianyi.top/blog/2018/12/08/yi-ci-ji-yu-wei-fu-wu-kuang-jia-de-tong-yong-ya-ce-diao-you-shi-zhan/)
+
+[项目压测及调优](https://blog.zhimma.com/2019/12/02/%E9%A1%B9%E7%9B%AE%E5%8E%8B%E6%B5%8B%E5%8F%8A%E8%B0%83%E4%BC%98/)
+
+[5000并发nginx性能优化调试记录](https://zhizhebuyan.com/2018/10/05/5000%E5%B9%B6%E5%8F%91nginx%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E8%B0%83%E8%AF%95%E8%AE%B0%E5%BD%95/)
+
+[服务器端性能优化 提升Qps、rt](https://www.slideshare.net/kidwish/qpsrt)
+
 [基于Win10单机部署kubernetes应用](https://mp.weixin.qq.com/s/qOqMoEeM9zkMk3wQ7RrN-A)
 
 [音视频基础之多媒体封装格式](https://mp.weixin.qq.com/s/BPQROPSJXPoR_ooKxXw1wg)
