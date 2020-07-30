@@ -544,3 +544,7 @@
 [挖财 Kubernetes 容器化之路](https://blog.opskumu.com/wacai-docker.html)
 
 [用户画像建模与应用](https://mp.weixin.qq.com/s/-NVpQVn0FPoJR4aE5c60zQ)
+
+[性能测试体系建设演进之路](https://www.cnblogs.com/imyalost/p/12761417.html)
+
+[如何用30分钟快速优化家中Wi-Fi？阿里工程师有绝招](https://developer.aliyun.com/article/692337)
